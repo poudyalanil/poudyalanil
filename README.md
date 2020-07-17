@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there Its me Anil 👋
 
-<!--
-**poudyalanil/poudyalanil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I am a coder 💪 with skills 🖥 that are improving !
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... [Nepshirts](https://nepshirts.com), [PyNep](https://github.com/pynep),[NepCodes](https://github.com/nepcodes)
+- 🌱 I’m currently learning ... Flutter, Go, JS
+- 👯 I’m looking to collaborate on ... Python, Flutter, Android 📱
+- 🤔 I’m looking for help with ... Docker, Cloud Computing
+- 💬 Ask me about ... Anything
+- 📫 How to reach me: ... [Website](https://anilpoudyal.com.np)
+- 😄 Pronouns: ... He/Him
+
+
+

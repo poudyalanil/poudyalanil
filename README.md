@@ -3,7 +3,7 @@
 
 I am a coder 💪 with skills 🖥 that are improving !
 
-Here are some ideas to get you started:
+👇
 
 - 🔭 I’m currently working on ... [Nepshirts](https://nepshirts.com), [PyNep](https://github.com/pynep),[NepCodes](https://github.com/nepcodes)
 - 🌱 I’m currently learning ... Flutter, Go, JS

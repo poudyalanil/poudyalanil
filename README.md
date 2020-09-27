@@ -13,35 +13,12 @@
 
 
 
-<table style="border: none;">
 
 
-<th style = "border: none">
 
-
-<a href="https://github.com/poudyalanil">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poudyalanil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/poudyalanil">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poudyalanil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>	<a href="https://github.com/poudyalanil">![Anil's github stats](https://github-readme-stats.vercel.app/api?username=poudyalanil&count_private=true&show_icons=true)</a>
   
-  </th>
-  
-  <th style = "border: none">
-  </a>
-  
-<a href="https://github.com/poudyalanil">
-
-![Anil's github stats](https://github-readme-stats.vercel.app/api?username=poudyalanil&count_private=true&show_icons=true)
-
-</a>
-
-  </th>
-  <br>
-  
-
-
-</table>
-
-[![Anil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=poudyalanil)](https://github.com/poudyalanil)
+<!--[![Anil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=poudyalanil)](https://github.com/poudyalanil) -->
 
 
 

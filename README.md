@@ -13,7 +13,7 @@
 
 
 
-<a href="https://github.com/poudyalanil">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poudyalanil&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>	<a href="https://github.com/poudyalanil">![Anil's github stats](https://github-readme-stats.vercel.app/api?username=poudyalanil&count_private=true&show_icons=true)</a>
+<a href="https://github.com/poudyalanil">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poudyalanil&layout=compact)](https://github.com/poudyalanil)</a>	<a href="https://github.com/poudyalanil">![Anil's github stats](https://github-readme-stats.vercel.app/api?username=poudyalanil&count_private=true&show_icons=true)</a>
   
 
 

@@ -1,4 +1,4 @@
-### Hi , I am Anil Poudyal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi , I am Anil Poudyal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
 
@@ -20,13 +20,12 @@
 - 💬 Ask me about 👉 Anything
 - 😄 Pronouns: 👉 He/Him
 
-
-
+## Stats
 
 <a href="https://github.com/poudyalanil">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poudyalanil&layout=compact)](https://github.com/poudyalanil)</a>	<a href="https://github.com/poudyalanil">![Anil's github stats](https://github-readme-stats.vercel.app/api?username=poudyalanil&count_private=true&show_icons=true)</a>
   
 
 
-### 😜Here's a Joke for you:
+## 😜Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 

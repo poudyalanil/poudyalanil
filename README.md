@@ -1,5 +1,7 @@
 ### Hi , I am Anil Poudyal 👋
 
+![](https://komarev.com/ghpvc/?username=poudyalanil&color=green)
+
 ## Looking forward to contribute in open source projects
 
 - 🔭 I’m currently working on 👉 [Nepshirts](https://nepshirts.com), [PyNep](https://github.com/pynep),[NepCodes](https://github.com/nepcodes)

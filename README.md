@@ -1,6 +1,6 @@
-### Hi , I am Anil Poudyal 👋
+### Hi , I am Anil Poudyal 👋 ![Profile Stat](https://komarev.com/ghpvc/?username=poudyalanil&color=green)
 
-![](https://komarev.com/ghpvc/?username=poudyalanil&color=green)
+
 <p>
   <a href="https://www.twitter.com/anilpoudyal8"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/anilpoudyal"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
@@ -24,5 +24,6 @@
   
 
 
-
+### 😜Here's a Joke for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 

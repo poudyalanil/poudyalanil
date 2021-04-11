@@ -12,7 +12,7 @@
 
 ## Looking forward to contribute in open source projects
 
-- 🔭 I’m currently working on 👉 [Nepshirts](https://nepshirts.com), [PyNep](https://github.com/pynep),[NepCodes](https://github.com/nepcodes)
+- 🔭 I’m currently working on 👉 [Nepshirts](https://nepshirts.com), [PyNep](https://github.com/pynep),[NepCodes](https://github.com/nepcodes), [Study Spectra](https://studyspectra.com/)
 - 🌱 I’m currently learning 👉 Flutter, Go, JS
 - 👯 I’m looking to collaborate on 👉 Python, Flutter, Android 📱
 - 🤔 I’m looking for help with 👉 Docker, Cloud Computing

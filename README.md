@@ -1,4 +1,4 @@
-<a href="https://anilpoudyal.com.np"> <img width="100%" src="https://i.imgur.com/E6uS0le.png"></a>
+<a href="https://anilpoudyal.com.np"> <img  src="https://i.imgur.com/E6uS0le.png"></a>
 
 <p>
     <a href="mailto:info@anilpoudyal.com.np"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>

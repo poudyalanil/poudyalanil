@@ -12,7 +12,7 @@
 
 
 ## Looking forward to contribute in open source projects
-
+- 🔭 Chief Operating Officer at 👉 [Aspark Systems ](https://asparksys.com),
 - 🔭 I’m currently working on 👉 [Nepshirts](https://nepshirts.com), [PyNep](https://github.com/pynep), [Alpine](https://alpine.asparksys.com), [Study Spectra](https://studyspectra.com/)
 - 🌱 I’m currently learning 👉 Flutter, Go, React JS, Docker
 - 👯 I’m looking to collaborate on 👉 Python, Flutter, Android 📱

@@ -20,9 +20,9 @@
 - 💬 Ask me about 👉 Anything
 - 😄 Pronouns: 👉 He/Him
 
-## Stats
 
-<a href="https://github.com/poudyalanil">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=poudyalanil&layout=compact&theme=dark)](https://github.com/poudyalanil)</a>	<a href="https://github.com/poudyalanil">![Anil's github stats](https://github-readme-stats.vercel.app/api?username=poudyalanil&count_private=true&show_icons=true&theme=dark)</a>
+
+<a href="https://github.com/poudyalanil">[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poudyalanil&theme=github_dark)](https://github.com/poudyalanil)</a><br>	<a href="https://github.com/poudyalanil">![Anil's github stats](https://github-readme-stats.vercel.app/api?username=poudyalanil&count_private=true&show_icons=true&theme=dark)</a>
   
 
 
